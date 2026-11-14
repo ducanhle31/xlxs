@@ -41,7 +41,7 @@ ENVIRONMENTS = {
         "db_port":     5432,
         "db_name":     "omega",
         "db_user":     "odoo",
-        "db_password": "1",
+        "db_password": "Omega@2026",
         "excel_path":  r"d:\omega\lognote_du_an.xlsx",
         "timezone_offset_hours": 7,
         "admin_login": "admin",
